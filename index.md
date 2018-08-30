@@ -18,8 +18,8 @@ Philosophy, Psychology, Metaphysics, Theology...ah, and Computer Science.
 ### Experience 
 - **Independent Researcher @ Stanford University** *Summer 2018 - Present*
     - Developing interfaces, tools, and health experiences for mental health interventions and therapies with the Human-Computer Interaction Group.
-- **iOS & watchOS Engineer @ Apple, Inc.** *Summer 2018*
-    - Was part of the Apple Health team to develop new health experiences for iOS devices. 
+- **Software Engineering Intern @ Apple, Inc.** *Summer 2018*
+    - Was part of the Apple Health team to develop new health experiences for iOS & watchOS devices. 
     - Designed with Sketch and developed using Xcode with Objective-C.
 - **Research Assistant @ Florida International University** *Summer 2017*
     - Assisted at the Distributed Multimedia Information Systems Laboratory and Integrated Computer Augmented Virtual Environment working on a Miami Beach model to simulate storms and sea level rise.
