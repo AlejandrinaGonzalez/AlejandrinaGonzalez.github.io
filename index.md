@@ -4,7 +4,7 @@ layout: default
 
 ### About Me
 
-Just looking for a meaningful career.
+I am a computer science student at Stanford University and a part time magician of the Society of American Magicians and Silicon Valley's Secret Magic Garage. I am looking to build a meaningful career.
 
 ### Interests 
 
@@ -12,12 +12,12 @@ Philosophy, Psychology, Metaphysics, Theology...ah, and Computer Science.
 
 ### Education
 
-*   Stanford University, Stanford, CA (Sep 2016 - Present)
+*   Stanford University, Stanford, CA (Sep 2017 - Present)
 *   Saint Brendan High School, Miami, FL. (2012-2016)
 
 ### Experience 
-- **Independent Researcher @ Stanford University** *Summer 2018 - Present*
-    - Developing interfaces, tools, and health experiences for mental health interventions and therapies with the Human-Computer Interaction Group.
+- **Student Researcher @ Stanford University** *Summer 2018 - Present*
+    - Developing interfaces, tools, and health experiences for mental health interventions and therapies with Human Centered AI.
 - **Software Engineering Intern @ Apple, Inc.** *Summer 2018*
     - Was part of the Apple Health team to develop new health experiences for iOS & watchOS devices. 
     - Designed with Sketch and developed using Xcode with Objective-C.
@@ -39,7 +39,7 @@ Philosophy, Psychology, Metaphysics, Theology...ah, and Computer Science.
 
 ### Skills
 
- | Xcode |  Unity | Sketch |
+ | Xcode |  Unity | Sketch | Adobe XD
 
 | Objective-C |  Swift | C# | C++ | C |
 
