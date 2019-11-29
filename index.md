@@ -8,16 +8,16 @@ I am a computer science student at Stanford University and a part time magician 
 
 ### Interests 
 
-Philosophy, Psychology, Metaphysics, Theology...ah, and Computer Science.
+History, Philosophy, Psychology, Theology...ah, and Computer Science.
 
 ### Education
 
-*   Stanford University, Stanford, CA (Sep 2017 - Present)
+*   Stanford University, Stanford, CA (Present)
 *   Saint Brendan High School, Miami, FL. (2012-2016)
 
 ### Experience 
-- **Student Researcher @ Stanford University** *Summer 2018 - Present*
-    - Developing interfaces, tools, and health experiences for mental health interventions and therapies with Human Centered AI.
+- **Software Developer @ Adobe, Inc. ** *Summer 2019*
+    - Worked on a new feature for Adobe XD to speed the workflow of designers. 
 - **Software Engineering Intern @ Apple, Inc.** *Summer 2018*
     - Was part of the Apple Health team to develop new health experiences for iOS & watchOS devices. 
     - Designed with Sketch and developed using Xcode with Objective-C.
@@ -49,9 +49,10 @@ Philosophy, Psychology, Metaphysics, Theology...ah, and Computer Science.
 ### Activities
 
 - Stanford Triathlon Team 
-- Society of American Magicians 
-- Tech Conferences 
-- Hackathons 
+- Society of American Magicians  
+- Silicon Valley Secret Magic Garage Member 
+- International Brotherhood of Magicians 
+- Have co-taught magic classes at Google and Stanford University 
 
 ### As seen on...
 
@@ -70,21 +71,3 @@ Philosophy, Psychology, Metaphysics, Theology...ah, and Computer Science.
 * NCWIT National Aspirations in Computing Award Runner-up 
 * 2016 Congressional Achievement in Coding Excellence
 
-<!--<dl>-->
-<!--<dt>Name</dt>-->
-<!--<dd>Godzilla</dd>-->
-<!--<dt>Born</dt>-->
-<!--<dd>1952</dd>-->
-<!--<dt>Birthplace</dt>-->
-<!--<dd>Japan</dd>-->
-<!--<dt>Color</dt>-->
-<!--<dd>Green</dd>-->
-<!--</dl>-->
-
-<!--```-->
-<!--Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.-->
-<!--```-->
-<!---->
-<!--```-->
-<!--The final element.-->
-<!--```-->
