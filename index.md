@@ -16,7 +16,7 @@ History, Philosophy, Psychology, Theology...ah, and Computer Science.
 *   Saint Brendan High School, Miami, FL. (2012-2016)
 
 ### Experience 
-- **Software Developer @ Adobe, Inc. ** *Summer 2019*
+- **Software Developer @ Adobe, Inc.** *Summer 2019*
     - Worked on a new feature for Adobe XD to speed the workflow of designers. 
 - **Software Engineering Intern @ Apple, Inc.** *Summer 2018*
     - Was part of the Apple Health team to develop new health experiences for iOS & watchOS devices. 
