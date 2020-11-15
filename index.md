@@ -12,14 +12,14 @@ History, Philosophy, Psychology, Theology...ah, and Computer Science.
 
 ### Education
 
-*   M.S. in Computer Science Candidate, Stanford University, Stanford, CA (Exp. 2022)
+*   Co-terminal M.S. in Computer Science Candidate, Stanford University, Stanford, CA (Exp. 2022)
 *   B.S. Honors in Computer Science Candidate, Stanford University, Stanford, CA (2017-2021)
 *   Saint Brendan High School, Miami, FL. (2012-2016)
 
 ### Experience 
-- **Technical Research Assistant @ Stanford Internet Observatory** *Summer 2020*
+- **Technical Research Assistant @ Stanford Internet Observatory, Stanford University** *Summer 2020*
     - Backend API engineer for DGAP: Data Gathering and Analysis Portal, for the 2020 Election Integrity Partnership for live social media analysis of the U.S. 2020 elections.
-- **Software Developer @ Center for the Study of Language and Information** *Summer 2020*
+- **Software Developer @ Center for the Study of Language and Information, Stanford University** *Summer 2020*
     - Developed web apps and tools for the Openproof Research project used by universities around the world to teach the fundamentals of logic and computational mathematics.
 - **Software Developer @ Adobe, Inc.** *Summer 2019*
     - Design Systems team for Adobe Xd. Focused on improving the features of the components elements and developed + shipped a new feature for UX design in Adobe Xd. 
@@ -29,7 +29,7 @@ History, Philosophy, Psychology, Theology...ah, and Computer Science.
     - Assisted at the Distributed Multimedia Information Systems Laboratory and Integrated Computer Augmented Virtual Environment working on a Miami Beach model to simulate storms and sea level rise.
 - **Lead Instructor @ CODeLLA** *Summer 2017*
     - CODeLLA’s 8 week cohort serving underprivileged middle school girls with 21st century skills. Taught design thinking and coding for girls to build their own apps.
-- **Stanford Summer Engineering Academy** *Summer 2016*
+- **Stanford Summer Engineering Academy, Stanford University** *Summer 2016*
     - Spent a month exploring the different fields of engineering with +16 professors.
 - **iOS Engineer @ Faceplay, Inc. (now Magic Studio, Inc.)** *Jun 2016 - Sep 2016*
     - Worked remotely with a small team to develop different iOS apps.
