@@ -17,9 +17,9 @@ History, Philosophy, Psychology, Theology...ah, and Computer Science.
 *   Saint Brendan High School, Miami, FL. (2012-2016)
 
 ### Experience 
-- **Technical Research Assistant @ Stanford Internet Observatory ** *Summer 2020*
+- **Technical Research Assistant @ Stanford Internet Observatory** *Summer 2020*
     - Backend API engineer for DGAP: Data Gathering and Analysis Portal, for the 2020 Election Integrity Partnership for live social media analysis of the U.S. 2020 elections.
-- **Software Developer @ Center for the Study of Language and Information ** *Summer 2020*
+- **Software Developer @ Center for the Study of Language and Information** *Summer 2020*
     - Developed web apps and tools for the Openproof Research project used by universities around the world to teach the fundamentals of logic and computational mathematics.
 - **Software Developer @ Adobe, Inc.** *Summer 2019*
     - Design Systems team for Adobe Xd. Focused on improving the features of the components elements and developed + shipped a new feature for UX design in Adobe Xd. 
