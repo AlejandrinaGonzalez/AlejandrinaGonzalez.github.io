@@ -12,15 +12,19 @@ History, Philosophy, Psychology, Theology...ah, and Computer Science.
 
 ### Education
 
-*   Stanford University, Stanford, CA (Present)
+*   M.S. in Computer Science Candidate, Stanford University, Stanford, CA (Exp. 2022)
+*   B.S. Honors in Computer Science Candidate, Stanford University, Stanford, CA (2017-2021)
 *   Saint Brendan High School, Miami, FL. (2012-2016)
 
 ### Experience 
+- **Technical Research Assistant @ Stanford Internet Observatory ** *Summer 2020*
+    - Backend API engineer for DGAP: Data Gathering and Analysis Portal, for the 2020 Election Integrity Partnership for live social media analysis of the U.S. 2020 elections.
+- **Software Developer @ Center for the Study of Language and Information ** *Summer 2020*
+    - Developed web apps and tools for the Openproof Research project used by universities around the world to teach the fundamentals of logic and computational mathematics.
 - **Software Developer @ Adobe, Inc.** *Summer 2019*
-    - Worked on a new feature for Adobe XD to speed the workflow of designers. 
+    - Design Systems team for Adobe Xd. Focused on improving the features of the components elements and developed + shipped a new feature for UX design in Adobe Xd. 
 - **Software Engineering Intern @ Apple, Inc.** *Summer 2018*
-    - Was part of the Apple Health team to develop new health experiences for iOS & watchOS devices. 
-    - Designed with Sketch and developed using Xcode with Objective-C.
+    - Apple Health + Apple Watch team. Worked on developing internal first party app health experiences for iOS and watchOS devices.
 - **Research Assistant @ Florida International University** *Summer 2017*
     - Assisted at the Distributed Multimedia Information Systems Laboratory and Integrated Computer Augmented Virtual Environment working on a Miami Beach model to simulate storms and sea level rise.
 - **Lead Instructor @ CODeLLA** *Summer 2017*
@@ -41,10 +45,9 @@ History, Philosophy, Psychology, Theology...ah, and Computer Science.
 
  | Xcode |  Unity | Sketch | Adobe XD
 
-| Objective-C |  Swift | C# | C++ | C |
+| Python | JavaScript | Objective-C |  Swift | C# | C++ | C |
 
-| Design Thinking | Product Management | Entrepreneurship |
-
+| Software Engineer | Software Developer | iOS/watchOS/macOS Development | Web App Developent | Backend API Engineer | Design Thinking | Product Management | Entrepreneurship |
 
 ### Activities
 
@@ -54,14 +57,10 @@ History, Philosophy, Psychology, Theology...ah, and Computer Science.
 - International Brotherhood of Magicians 
 - Have co-taught magic classes at Google and Stanford University 
 
-### As seen on...
-
-| Forbes Mexico | CNN | BBC World | 
-| Entrepreneur Magazine | The Miami Herald | Univision | 
-| CNET | USA Today | Televisa | 
-| Seventeen Magazine | W Radio | El Universal |
-
-### Some recognitions
+### Fellowships & Awards
+* First Principles Summer Philosophy Scholar 2020, Witherspoon Institute at Princeton University
+* Civitas Dei Fellow 2020, Pontifical Faculty of the Immaculate Conception with the Thomistic Institute
+* Junior Fellow Winter 2020, Zephyr Institute
 * Nike & Elle Magazine Mexican Women 2018
 * Premio Nacional de la Juventud 2017 Finalist (Mexico’s National Youth Award)
 * Facebook Developers Conference F8 2017 Scholarship Recipient
@@ -71,3 +70,9 @@ History, Philosophy, Psychology, Theology...ah, and Computer Science.
 * NCWIT National Aspirations in Computing Award Runner-up 
 * 2016 Congressional Achievement in Coding Excellence
 
+### As seen on...
+
+| Forbes Mexico | CNN | BBC World | 
+| Entrepreneur Magazine | The Miami Herald | Univision | 
+| CNET | USA Today | Televisa | 
+| Seventeen Magazine | W Radio | El Universal |
