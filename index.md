@@ -17,9 +17,9 @@ History, Philosophy, Psychology, Theology...ah, and Computer Science.
 *   Saint Brendan High School, Miami, FL. (2012-2016)
 
 ### Experience 
-- **Technical Research Assistant @ Stanford Internet Observatory, Stanford University** *Summer 2020*
+- **Technical Research Assistant @ Stanford Internet Observatory, Stanford University.** *Summer 2020*
     - Backend API engineer for DGAP: Data Gathering and Analysis Portal, for the 2020 Election Integrity Partnership for live social media analysis of the U.S. 2020 elections.
-- **Software Developer @ Center for the Study of Language and Information, Stanford University** *Summer 2020*
+- **Software Developer @ Center for the Study of Language and Information, Stanford University.** *Summer 2020*
     - Developed web apps and tools for the Openproof Research project used by universities around the world to teach the fundamentals of logic and computational mathematics.
 - **Software Developer @ Adobe, Inc.** *Summer 2019*
     - Design Systems team for Adobe Xd. Focused on improving the features of the components elements and developed + shipped a new feature for UX design in Adobe Xd. 
@@ -43,16 +43,20 @@ History, Philosophy, Psychology, Theology...ah, and Computer Science.
 
 ### Skills
 
- | Xcode |  Unity | Sketch | Adobe XD
+ | Xcode |  VSCode | IntelliJ IDEA | Unity | Sketch | Adobe XD |
 
 | Python | JavaScript | Objective-C |  Swift | C# | C++ | C |
 
-| Software Engineer | Software Developer | iOS/watchOS/macOS Development | Web App Developent | Backend API Engineer | Design Thinking | Product Management | Entrepreneurship |
+| Software Engineer | Backend API Engineer |
+
+| Software Developer | iOS/watchOS/macOS Development | Web App Development |
+
+| Design Thinking | Product Management | Entrepreneurship |
 
 ### Activities
 
 - Stanford Triathlon Team 
-- Society of American Magicians  
+- Society of American Magicians 
 - Silicon Valley Secret Magic Garage Member 
 - International Brotherhood of Magicians 
 - Have co-taught magic classes at Google and Stanford University 
