@@ -23,8 +23,6 @@ I obtained both a B.S. in CS focusing on Human-Computer Interaction and an M.S. 
     - Design Systems team for Adobe Xd. Focused on improving the features of the components elements and developed + shipped a new feature for UX design in Adobe Xd. 
 - **Software Engineering Intern @ Apple, Inc.** *Summer 2018*
     - Apple Health + Apple Watch team. Worked on developing internal first party app health experiences for iOS and watchOS devices.
-<!-- - **Research Assistant @ Florida International University** *Summer 2017*
-    - Assisted at the Distributed Multimedia Information Systems Laboratory and Integrated Computer Augmented Virtual Environment working on a Miami Beach model to simulate storms and sea level rise. -->
 - **Lead Instructor @ CODeLLA** *Summer 2017*
     - CODeLLA’s 8 week cohort serving underprivileged middle school girls with 21st century skills. Taught design thinking and coding for girls to build their own apps.
 - **Stanford Summer Engineering Academy, Stanford University** *Summer 2016*
