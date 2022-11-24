@@ -41,11 +41,11 @@ I obtained both a B.S. in CS focusing on Human-Computer Interaction and an M.S. 
 
 ### Skills
 
-| VSCode | Xcode | IntelliJ IDEA | Unity | Sketch | Adobe XD |
+| VSCode | Xcode | IntelliJ IDEA | Unity | Sketch | Adobe XD | Blender |
 
 | Python | Swift | JavaScript | Objective-C | C# | C++ | C |
 
-| Version Control -- Git/Subversion | AWS/GCP |
+| Numpy | Pandas | Pytorch | Version Control -- Git/Subversion | AWS/GCP | 
 
 | Software Engineering | Software Development | iOS/watchOS/macOS Development | Web App Development |
 
@@ -60,13 +60,16 @@ I obtained both a B.S. in CS focusing on Human-Computer Interaction and an M.S. 
 - Have co-taught magic classes at Google and Stanford University 
 
 ### Fellowships & Awards
+* Zephyr Institute Summer 2022 Fellow, A Seminar on Technology, Apocalypse, and Revolution.
+* Hertog Institute Summer 2022 Fellow, Living with Artificial Intelligence Seminar.
+* Thomistic Institute Fellow 2021, Philosophy and Natural Science Symposium.
 * First Principles Summer Philosophy Scholar 2020, Witherspoon Institute at Princeton University
 * Civitas Dei Fellow 2020, Pontifical Faculty of the Immaculate Conception with the Thomistic Institute
 * Junior Fellow Winter 2020, Zephyr Institute
 * Nike & Elle Magazine Mexican Women 2018
 * Premio Nacional de la Juventud 2017 Finalist (Mexico’s National Youth Award)
 * Facebook Developers Conference F8 2017 Scholarship Recipient
-* Apple Inclusion and Diversity: Creating Opportunities
+* Poster Child for Apple's Inclusion and Diversity: Creating Opportunities Campaign
 * Apple's Worldwide Developers Conference Scholar 2015 and 2016
 * The Miami Herald Digital Media Silver Knight Award 2016
 * NCWIT National Aspirations in Computing Award Runner-up 
