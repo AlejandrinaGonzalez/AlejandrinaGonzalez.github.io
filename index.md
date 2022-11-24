@@ -4,29 +4,27 @@ layout: default
 
 ### About Me
 
-I am a computer science student at Stanford University and a part time magician of the Society of American Magicians and Silicon Valley's Secret Magic Garage. I am looking to build a meaningful career.
-
-### Interests 
-
-History, Philosophy, Psychology, Theology...ah, and Computer Science.
-
-### Education
-
-*   Co-terminal M.S. in Computer Science Candidate, Stanford University, Stanford, CA (Exp. 2022)
-*   B.S. Honors in Computer Science Candidate, Stanford University, Stanford, CA (2017-2021)
-*   Saint Brendan High School, Miami, FL. (2012-2016)
+I obtained both a B.S. in CS focusing on Human-Computer Interaction and an M.S. in CS  focusing on Artificial Intelligence from Stanford University. 
 
 ### Experience 
+
+- **Graduate Fellow @ Regulation, Evaluation and Governance Lab, Stanford Law School.** *2021-Present*
+    - Worked and lead computer vision and NLP projects, including:
+        * “Improving Case Adjudication with Natural Language Processing: Periodic Entitlement Review at the Department of Labor”
+        * “Shortcomings of the Word Embeddings Bias Framework”
+        * “Detecting Concentrated Animal Feeding Operations from Satellite Images with Deep Learning”
+- **Software Engineering Intern @ Hallow, Inc.** *Summer 2021*
+    - Worked on the foundational software infrastructure for language internationalization to expand to multiple languages, focusing on iOS. Other responsibilities: QA testing and feature tracking.
 - **Technical Research Assistant @ Stanford Internet Observatory, Stanford University.** *Summer 2020*
-    - Backend API engineer for DGAP: Data Gathering and Analysis Portal, for the 2020 Election Integrity Partnership for live social media analysis of the U.S. 2020 elections.
-- **Software Developer @ Center for the Study of Language and Information, Stanford University.** *Summer 2020*
-    - Developed web apps and tools for the Openproof Research project used by universities around the world to teach the fundamentals of logic and computational mathematics.
+    - Engineer for the Data Gathering and Analysis Portal (DGAP) used during the 2020 Election Integrity Partnership for live social media analysis. Platform continues to be used during election years.
+- **Lead Software Developer @ Center for the Study of Language and Information, Stanford University.** *Summer 2020*
+    - Software engineer for a mathematical logic instruction web application. Helped on-board and train interns unfamiliar with large-scale software development, large code bases, and version control.
 - **Software Developer @ Adobe, Inc.** *Summer 2019*
     - Design Systems team for Adobe Xd. Focused on improving the features of the components elements and developed + shipped a new feature for UX design in Adobe Xd. 
 - **Software Engineering Intern @ Apple, Inc.** *Summer 2018*
     - Apple Health + Apple Watch team. Worked on developing internal first party app health experiences for iOS and watchOS devices.
-- **Research Assistant @ Florida International University** *Summer 2017*
-    - Assisted at the Distributed Multimedia Information Systems Laboratory and Integrated Computer Augmented Virtual Environment working on a Miami Beach model to simulate storms and sea level rise.
+<!-- - **Research Assistant @ Florida International University** *Summer 2017*
+    - Assisted at the Distributed Multimedia Information Systems Laboratory and Integrated Computer Augmented Virtual Environment working on a Miami Beach model to simulate storms and sea level rise. -->
 - **Lead Instructor @ CODeLLA** *Summer 2017*
     - CODeLLA’s 8 week cohort serving underprivileged middle school girls with 21st century skills. Taught design thinking and coding for girls to build their own apps.
 - **Stanford Summer Engineering Academy, Stanford University** *Summer 2016*
@@ -37,8 +35,8 @@ History, Philosophy, Psychology, Theology...ah, and Computer Science.
     - PokéLocator (#4 Navigation Apps on App Store’s Top Charts)
     - Voicify (Vodafone U.K. Best New Apps in July 2016)
 - **Indie iOS Developer** *Jun 2014 - Present*
-    - Self-taught iOS Developer. Created a variety of iOS projects where I learned mobile development skills, time management, resourcefulness, lateral thinking, etc.
-    - Some of the iOS Apps include: C.U.B.E., COLOR5, SPUTNIK, CloudCamera (1st place overall winner MangoHacks 2017 - Florida International University)
+    - Self-taught iOS Developer. Created a variety of iOS projects.
+    - Some of the iOS Apps include: C.U.B.E., COLOR5, SPUTNIK, CloudCamera (1st place overall winner MangoHacks 2017).
 
 
 ### Skills
