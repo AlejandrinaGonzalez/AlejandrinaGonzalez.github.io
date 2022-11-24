@@ -41,13 +41,13 @@ I obtained both a B.S. in CS focusing on Human-Computer Interaction and an M.S. 
 
 ### Skills
 
- | Xcode |  VSCode | IntelliJ IDEA | Unity | Sketch | Adobe XD |
+| VSCode | Xcode | IntelliJ IDEA | Unity | Sketch | Adobe XD |
 
-| Python | JavaScript | Objective-C |  Swift | C# | C++ | C |
+| Python | Swift | JavaScript | Objective-C | C# | C++ | C |
 
-| Software Engineer | Backend API Engineer |
+| Version Control -- Git/Subversion | AWS/GCP |
 
-| Software Developer | iOS/watchOS/macOS Development | Web App Development |
+| Software Engineering | Software Development | iOS/watchOS/macOS Development | Web App Development |
 
 | Design Thinking | Product Management | Entrepreneurship |
 
